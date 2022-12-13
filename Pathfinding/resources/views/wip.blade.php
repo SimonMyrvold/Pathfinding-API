@@ -8,6 +8,6 @@
     @vite('resources/css/app.css')
 </head>
 <body>
-    <h1 class="underline">Hej</h1>
+    <h1 class="underline text-3xl">Hej</h1>
 </body>
 </html>
